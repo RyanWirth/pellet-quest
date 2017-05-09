@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:217d7d190593b0ff755ff059f1634025:fc0b37dc1c59a2d03d2f373253d046bc:6e1aa2522401e5cc74b0b5b0097f6d04$ -->
+<TextureAtlas imagePath="UIGameHUD.png">
+    <SubTexture name="coin" x="2" y="2" width="18" height="19"/>
+    <SubTexture name="heart" x="22" y="2" width="22" height="19"/>
+</TextureAtlas>

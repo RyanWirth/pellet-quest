@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:bb9b0a388779f21cc651bd4be8816b62:a3606fd7399a4ba16d934e37dca1f9c5:3d0352a5f33c55cd3f197bc6dc97b766$ -->
+<TextureAtlas imagePath="EMale.png">
+    <SubTexture name="stand_down01" x="2" y="2" width="32" height="64"/>
+    <SubTexture name="stand_left01" x="36" y="2" width="32" height="64"/>
+    <SubTexture name="stand_right01" x="70" y="2" width="32" height="64"/>
+    <SubTexture name="stand_up01" x="104" y="2" width="32" height="64"/>
+    <SubTexture name="walk_down01" x="138" y="2" width="32" height="64"/>
+    <SubTexture name="walk_down02" x="172" y="2" width="32" height="64"/>
+    <SubTexture name="walk_down03" x="206" y="2" width="32" height="64"/>
+    <SubTexture name="walk_down04" x="2" y="68" width="32" height="64"/>
+    <SubTexture name="walk_down05" x="36" y="68" width="32" height="64"/>
+    <SubTexture name="walk_down06" x="70" y="68" width="32" height="64"/>
+    <SubTexture name="walk_down07" x="104" y="68" width="32" height="64"/>
+    <SubTexture name="walk_down08" x="138" y="68" width="32" height="64"/>
+    <SubTexture name="walk_left01" x="172" y="68" width="32" height="64"/>
+    <SubTexture name="walk_left02" x="206" y="68" width="32" height="64"/>
+    <SubTexture name="walk_left03" x="2" y="134" width="32" height="64"/>
+    <SubTexture name="walk_left04" x="36" y="134" width="32" height="64"/>
+    <SubTexture name="walk_left05" x="70" y="134" width="32" height="64"/>
+    <SubTexture name="walk_left06" x="104" y="134" width="32" height="64"/>
+    <SubTexture name="walk_left07" x="138" y="134" width="32" height="64"/>
+    <SubTexture name="walk_left08" x="172" y="134" width="32" height="64"/>
+    <SubTexture name="walk_right01" x="206" y="134" width="32" height="64"/>
+    <SubTexture name="walk_right02" x="2" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right03" x="36" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right04" x="70" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right05" x="104" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right06" x="138" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right07" x="172" y="200" width="32" height="64"/>
+    <SubTexture name="walk_right08" x="206" y="200" width="32" height="64"/>
+    <SubTexture name="walk_up01" x="2" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up02" x="36" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up03" x="70" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up04" x="104" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up05" x="138" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up06" x="172" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up07" x="206" y="266" width="32" height="64"/>
+    <SubTexture name="walk_up08" x="2" y="332" width="32" height="64"/>
+</TextureAtlas>

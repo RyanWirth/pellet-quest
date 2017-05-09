@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:a23f25ce451f9fb1936eaa69b7c37f45:1de7d14adc00257997685e1e40cd7f26:087fe217c7de27b286c8ca4295985c04$ -->
+<TextureAtlas imagePath="ECoin.png">
+    <SubTexture name="static_down01" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="static_down02" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="static_down03" x="70" y="2" width="32" height="32"/>
+    <SubTexture name="static_down04" x="104" y="2" width="32" height="32"/>
+    <SubTexture name="static_down05" x="138" y="2" width="32" height="32"/>
+    <SubTexture name="static_down06" x="172" y="2" width="32" height="32"/>
+    <SubTexture name="static_down07" x="2" y="36" width="32" height="32"/>
+    <SubTexture name="static_down08" x="36" y="36" width="32" height="32"/>
+    <SubTexture name="walk_down01" x="70" y="36" width="32" height="32"/>
+    <SubTexture name="walk_down02" x="104" y="36" width="32" height="32"/>
+    <SubTexture name="walk_down03" x="138" y="36" width="32" height="32"/>
+    <SubTexture name="walk_down04" x="172" y="36" width="32" height="32"/>
+    <SubTexture name="walk_down05" x="2" y="70" width="32" height="32"/>
+    <SubTexture name="walk_down06" x="36" y="70" width="32" height="32"/>
+    <SubTexture name="walk_down07" x="70" y="70" width="32" height="32"/>
+    <SubTexture name="walk_down08" x="104" y="70" width="32" height="32"/>
+</TextureAtlas>

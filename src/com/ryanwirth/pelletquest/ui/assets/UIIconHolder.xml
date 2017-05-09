@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:172ce0feefba7ea869cbd8a94a1d8994:b35779b608db806ac7771d0c7964c0e5:1055c2bc5309557b09d450b640a5befd$ -->
+<TextureAtlas imagePath="UIIconHolder.png">
+    <SubTexture name="icon_holder" x="2" y="2" width="32" height="32"/>
+</TextureAtlas>

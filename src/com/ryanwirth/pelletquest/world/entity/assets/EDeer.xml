@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:c1dd48e1c39d6781b8f7a75a40d641fe:9886362f00040be6eef283b550a0ef3c:182dbb36d5faac0bf6d6bd59589c65e3$ -->
+<TextureAtlas imagePath="EDeer.png">
+    <SubTexture name="static_down01" x="0" y="0" width="96" height="64"/>
+    <SubTexture name="static_down02" x="96" y="0" width="96" height="64"/>
+    <SubTexture name="static_down04" x="96" y="0" width="96" height="64"/>
+    <SubTexture name="static_down03" x="192" y="0" width="96" height="64"/>
+</TextureAtlas>

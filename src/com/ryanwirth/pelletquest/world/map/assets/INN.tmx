@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="12" height="14" tilewidth="32" tileheight="32" nextobjectid="8">
+ <properties>
+  <property name="paddingTile" value="2378"/>
+  <property name="spawnDirection" value="down"/>
+  <property name="spawnXT" value="9"/>
+  <property name="spawnYT" value="10"/>
+  <property name="dayNight" value="false"/>
+ </properties>
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="2450">
+  <image source="../../tile/assets/tilesetOriginal.png" width="1600" height="1568"/>
+  <tile id="44">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="45">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="94">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="95">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="144">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="145">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="443">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="444">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="493">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="494">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1075">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1076">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1125">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1126">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1534">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1535">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1536">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1537">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1538">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1539">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1540">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1541">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2220">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2221">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2222">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2223">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2224">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2225">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2226">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2227">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2228">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2229">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2230">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2231">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2232">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2233">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2234">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2270">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2271">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2272">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2273">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2274">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2275">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2276">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2277">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2278">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2279">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2280">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2281">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2282">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2283">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2284">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2320">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2321">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2322">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2323">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2324">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2325">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2326">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2327">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2328">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2329">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2330">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2331">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2332">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2333">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2334">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2378">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="map" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJzz5mRg8CYRr+VgYFhPAO/kQKi/D2Q/IIBfI6kXBGIhIE5gxo9h6gmpo7d6EH7EARF7DqQfchBWLwLEokAsCcTCOOzEFye0Vg/CIH+A/PWEg7Bab6g/QP4SIyONwTAAckRF6Q==
+  </data>
+ </layer>
+ <layer name="mid" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAfBHESp+4CKwPDRSBuAao/C6TPQTFM/AoQ32JFqGdiY2BgBuITQLH/UMzAhhBnA2IeNuLduYeRgWEvI/Hq3wHVvieg3oSFgcGUBbvcfQ5MsTSg2nQc6gWxhGM8ECdgYeMCE4F4EhY2tQC6n15j8SMyQPeTLJFpBR0AABJcFwk=
+  </data>
+ </layer>
+ <layer name="mid2" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA/OMVKmvo/aOq7GBkYuhlJMyODhTT1o2BwAACSHgNU
+  </data>
+ </layer>
+ <layer name="coins" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwAgACoAAB
+  </data>
+ </layer>
+ <layer name="top" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYCAd+HMyMAQQwIGcCPVenLjNggGfQay+BsiuRcNVnLjVw8BjDgRbF4j1sLCRgSgeN2IzHxmQqh7dT3VEhMlAAAALog89
+  </data>
+ </layer>
+ <layer name="top2" width="12" height="14">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF9ABenKh8H07s6kYBKgAAyf4AqQ==
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="1" name="furnace" type="entity" x="96" y="96" width="32" height="32">
+   <properties>
+    <property name="save" value="false"/>
+    <property name="type" value="EFurnace"/>
+   </properties>
+  </object>
+  <object id="4" name="candle" type="entity" x="288" y="128" width="32" height="32">
+   <properties>
+    <property name="save" value="false"/>
+    <property name="type" value="ECandle"/>
+   </properties>
+  </object>
+  <object id="5" name="wilgrim_intro" type="entity" x="96" y="160" width="32" height="32">
+   <properties>
+    <property name="save" value="false"/>
+    <property name="type" value="EOldMan"/>
+   </properties>
+  </object>
+  <object id="6" name="intro_script" type="script" x="96" y="192" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="switch::wilgrim_introspeech::null-playintro-intro_script::true-null"/>
+    <property name="playintro" value="controls::off;wait::0.5;dialogue::DIALOGUE_WILGRIM_UNKNOWN_NAME::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM2;dialogue::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM3;show::hearts;dialogue::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM4;show::coins;dialogue::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM5;question::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM_CATCH_THAT::YES-sayYes-intro_script::NO-sayNo-intro_script"/>
+    <property name="sayNo" value="dialogue::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM_CATCH_THAT_NO;question::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM_CATCH_THAT::YES-sayYes-intro_script::NO-sayNo-intro_script"/>
+    <property name="sayYes" value="dialogue::{{NPC_INNKEEPER}}::{{NPC_INNKEEPER_COLOR}}::DIALOGUE_WILGRIM_CATCH_THAT_YES;set::wilgrim_introspeech::true;show::hud;controls::on;tip::controls_stop::2::10"/>
+   </properties>
+  </object>
+  <object id="7" name="door_script" type="script" x="96" y="224" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="map::OVERWORLD::111::70::down::true;"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="regions"/>
+</map>

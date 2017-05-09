@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:e1417a0480b35365ef75a815500c4689:151de971c6a6ba9572c33f9f7bb50c3d:03d5f8354787dde757408cf373f1afe9$ -->
+<TextureAtlas imagePath="UIScrollSmall.png">
+    <SubTexture name="bottom_center" x="4" y="4" width="32" height="32"/>
+    <SubTexture name="bottom_left" x="42" y="4" width="32" height="32"/>
+    <SubTexture name="bottom_right" x="80" y="4" width="32" height="32"/>
+    <SubTexture name="center" x="4" y="42" width="32" height="32"/>
+    <SubTexture name="left" x="42" y="42" width="32" height="32"/>
+    <SubTexture name="right" x="80" y="42" width="32" height="32"/>
+    <SubTexture name="top_center" x="4" y="80" width="32" height="32"/>
+    <SubTexture name="top_left" x="42" y="80" width="32" height="32"/>
+    <SubTexture name="top_right" x="80" y="80" width="32" height="32"/>
+</TextureAtlas>

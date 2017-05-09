@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:0363cee8065dce07c74253934216f886:3b4780c3d58f2bf2a2a4e8648a97ca33:a34c1cc9ea42dcbcc0a0ec2dbd25f428$ -->
+<TextureAtlas imagePath="UIButtonSmall.png">
+    <SubTexture name="button_down" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="button_up" x="36" y="2" width="32" height="32"/>
+</TextureAtlas>

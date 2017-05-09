@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="120" height="100" tilewidth="32" tileheight="32" nextobjectid="18">
+ <properties>
+  <property name="spawnDirection" value="down"/>
+  <property name="spawnXT" value="105"/>
+  <property name="spawnYT" value="71"/>
+ </properties>
+ <tileset firstgid="1" name="tileset" tilewidth="32" tileheight="32" tilecount="2450" columns="50">
+  <image source="../../tile/assets/tilesetOriginal.png" width="1600" height="1568"/>
+  <tile id="2">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="176">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="177">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="178">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="226">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="228">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="276">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="277">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="278">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="326">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="328">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1077">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1084">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1087">
+   <properties>
+    <property name="isWalkable" value=""/>
+   </properties>
+  </tile>
+  <tile id="1104">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1107">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1124">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1127">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1510">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1513">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1550">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1551">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1552">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1553">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1554">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1555">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1556">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1557">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1558">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1595">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1596">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1597">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1600">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1601">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1602">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1603">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1604">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1605">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1606">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1607">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1608">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1610">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1645">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1646">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1647">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1648">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1649">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1695">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1696">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1697">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1698">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1745">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1746">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1747">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1748">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1795">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1796">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1797">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1845">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1846">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1847">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1877">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1878">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1879">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1927">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1928">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1929">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1977">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1978">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="1979">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2027">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2028">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2029">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2077">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2078">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2079">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2127">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2128">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2129">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2170">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2171">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2172">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2173">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2174">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2175">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2176">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2177">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2178">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2179">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2180">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2181">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2182">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2183">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2184">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2193">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2194">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2195">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2220">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2221">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2222">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2223">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2224">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2225">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2226">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2227">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2228">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2229">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2230">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2231">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2232">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2233">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2234">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2242">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2243">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2244">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2245">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2270">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2271">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2272">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2273">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2274">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2275">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2276">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2277">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2278">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2279">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2280">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2281">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2282">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2283">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2284">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2292">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2293">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2320">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2321">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2322">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2323">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2324">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2325">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2326">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2327">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2328">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2329">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2330">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2331">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2332">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2333">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2334">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2342">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+  <tile id="2343">
+   <properties>
+    <property name="isWalkable" value="false"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="2451" name="map" tilewidth="32" tileheight="32" tilecount="7000" columns="100">
+  <image source="../../../../../../../map.png" width="3200" height="2240"/>
+ </tileset>
+ <layer name="REFERENCE" width="120" height="100" opacity="0.46">
+  <data encoding="base64" compression="zlib">
+   eJzt1EPw3mkfPeh3YttWx7bRMTq2bdsddmzbtm3btm2rM1cvZxb/xVSymKrfqbq25/k+96n6/O9/AQlIQAISkIAEJCABCUhAAhKQgAQkIAEJyP//My7k//43nglMZBKTmcJUpjGdGcxkFrOZw1zmMZ8FLGQRi1nCUpaxnBWsZBWrWcNa1rGeDWxkE5vZwla2sZ0d7GQXu9nDXvaxnwMc5BCHOcJRjnGcE5zkFKc5w1nOcZ4LXOQSl7nCVa5xnRvc5Ba3ucNd7nGfBzzkEY95wlOe8ZwXvOQVr3nDW97xng98DPnr9/2k8zNf+Mo3vvODf/n532+G+t///i8CEZggBCUYwQlBSEIRmjCEJRzhiUBEIhGZKEQlGtGJQUxiEZs4xCUe8UlAQhKRmCT8QVKSkZwUpCQVqUlDWtKRngxkJBOZyUJWspGdHOQkF7nJQ17ykZ8C/ElBClGYIhSlGMUpQUlK8RelKUNZylGeClSkEpWpQlWqUT3Ur9+3hs6a1KI2dahLPerTgIY0ojFNaEozmtOClrSiNW1oSzva04GOdKIzXehKN7rTg570ojd/04e+9KM/AxjIPwxiMEMYyjCGM4KRjGI0YxjLOMYzgYlMYjJTmMo0pjODmcxiNnOYyzzms4CFLGIxS1jKMpazgpWsYjVrWMs61rOBjWxiM1vYyja2s4Odv2HfXTp3s4e97GM/BzjIIQ5zhKMc4zgnOMkpTnOGs5zjPBe4yCUuc4WrXOM6N7jJLW5zh7vc4z4PeMgjHvOEpzzjOS94ySte84a3vOM9H/jIJz7zha984zs/+Jef/71paPeJQAQmCEEJRnBCEJJQhCYMYQlHeCIQkUhEJgpRiUZ0YhCTWMQmDnGJR3wSkJBEoX/9vol1JuEPkpKM5KQgJalITRrSko70ZCAjmchMFrKSjezkICe5yE0e8pKP/BTgTwpSiMIUoSjFKE4JSlKKvyhNGcpSjvJUoCKVqEwVqlKN6tSgJrWoTR3qUo/6NKAhjWhME5rSjOa0oCWtaE0b2tKO9nSgI53oTBe60o3u9KAnvejN3/ShL/3ozwAG8s9v2HeQzsEMYSjDGM4IRjKK0YxhLOMYzwQmMonJTGEq05jODGYyi9nMYS7zmM8CFrKIxSxhKctYzgpWsorVrGEt61jPBjayic1sYSvb2M4OdrKL3exhL/vYzwEOcojDHOEoxzjOCU5yitOc4SznOM8FLnKJy1zhKte4zg1ucovb3OEu97jPAx7yiMc84elv2PeZzue84CWveM0b3vKO93zgI5/4zBe+8o3v/OBffv73jWHcOwIRmCAEJRjBCUFIQhGaMIQlHOGJQEQiEZkoRCUa0YlBTGIRmzjEJR7xSUBCEpGYJPxBUpKRnBSkJBWpSUNa0pGeDGQkE5nJQlaykZ0c5CQXuclDXvKRnwL8SUEKUZgiFKUYxSlBSUrxF6XD/Pp9y+gsSznKU4GKVKIyVahKNapTg5rUojZ1qEs96tOAhjSiMU1oSjOa04KWtKI1bWhLO9rTgY50ojNd6Eo3utODnvSiN3/Th770oz8DGMg/DGIwQxjKMIYzgpGMYjRjGMs4xjOBiUxiMlOYyjSmM4OZzGI2c5jLPOazgIUsYjFLWMoylrOClaxiNWtY+xv2XadzPRvYyCY2s4WtbGM7O9jJLnazh73sYz8HOMghDnOEoxzjOCc4ySlOc4aznOM8F7jIJS5zhatc4zo3uMktbnOHu9zjPg94yCMe84SnPOM5L3jJK17zhre84z0f+MgnPvOFr3zjOz/4l5//bRDWfSIQgQlCUIIRnBCEJBShCUNYwhGeCEQkEpGJQlSihf31+0bXGYOYxCI2cYhLPOKTgIQkIjFJ+IOkJCM5KUhJKlKThrSkIz0ZyEgmMpOFrGQjOznISS5yk4e85CM/BfiTghSiMEUoSjGKU4KSlOIvSlOGspSjPBWoSCUqU4WqVKM6NahJLWpTh7rUoz4NaEgjGtOEpjSjOS1oSSta04a2tKM9HehIJzrTha50o/tv2LeHzp70ojd/04e+9KM/AxjIPwxiMEMYyjCGM4KRjGI0YxjLOMYzgYlMYjJTmMo0pjODmcxiNnOYyzzms4CFLGIxS1jKMpazgpWsYjVrWMs61rOBjWxiM1vYyja2s4Od7GI3e9jLPvZzgIMc4jBHOMoxjnOCk5ziNGc4yznOc4GLXOIyV7jKNa5zg5u/Yd9bOm9zh7vc4z4PeMgjHvOEpzzjOS94ySte84a3vOM9H/jIJz7zha984zs/+Jef//2ncO4dgQhMEIISjOCEICShCE0YwhKO8EQgIpGITBSiEo3oxCAmsYhNHOISj/gkICGJSEwS/iApyUhOClKSitSkIS3pSE8GMpKJzGQhK9nITg5ykovc5CEv+chPAf4M9+v3LaizEIUpQlGKUZwSlKQUf1GaMpSlHOWpQEUqUZkqVKUa1alBTWpRmzrUpR71aUBDGtGYJjSlGc1pQUta0Zo2tKUd7elARzrRmS50pRvd6UFPetGbv+lDX/rRnwEM5B8GMZghDGUYwxnBSEYxmjGMZRzjmcBEJjGZKUxlGtOZwUxmMZs5zGUe81nAwt+w7yKdi1nCUpaxnBWsZBWrWcNa1rGeDWxkE5vZwla2sZ0d7GQXu9nDXvaxnwMc5BCHOcJRjnGcE5zkFKc5w1nOcZ4LXOQSl7nCVa5xnRvc5Ba3ucNd7nGfBzzkEY95wlOe8ZwXvOQVr3nDW97xng985BOf+cJXvvGdH/zLz/82C+8+EYjABCEowQhOCEISKvyv3ze0zjCEJRzhiUBEIhGZKEQlGtGJQUxiEZs4xCUe8UlAQhKRmCT8QVKSkZwUpCQVqUlDWtKRngxkJBOZyUJWspGdHOQkF7nJQ17ykZ8C/ElBClGYIhSlGMUpQUlK8RelKUNZylGeClSkEpWpQlWqUZ0a1KQWtalDXepRnwY0pBGNaUJTmtGcFrSkFa1/w75tdLalHe3pQEc60ZkudKUb3elBT3rRm7/pQ1/60Z8BDOQfBjGYIQxlGMMZwUhGMZoxjGUc45nARCYxmSlMZRrTmcFMZjGbOcxlHvNZwEIWsZglLGUZy1nBSlaxmjWsZR3r2cBGNrGZLWxlG9vZwU52sZs97GUf+znAQQ5xmCMc5RjHOcFJTnGaM5z9Dfue03meC1zkEpe5wlWucZ0b3OQWt7nDXe5xnwc85BGPecJTnvGcF7zkFa95w1ve8Z4PfOQTn/nCV77xnR/8y8//3iCCe0cgAhOEoAQjOCEISShCE4awhCM8EYhIJCIThahEIzoxiEksYhOHuMQjPglISCISk4Q/SEoykpOClKQiNWlISzrSk4GMZCIzWcga4dfvm01ndnKQk1zkJg95yUd+CvAnBSlEYYpQlGIUpwQlKcVflKYMZSlHeSpQkUpUpgpVqUZ1alCTWtSmDnWpR30a0JBGNKYJTWlGc1rQkla0pg1taUd7OtCRTnSmC13pRnd60JNe9OZv+tCXfvRnAAP5h0EMZghDGcZwRjCSUYxmDGMZx3gmMJFJTGYKU3/DvtN0TmcGM5nFbOYwl3nMZwELWcRilrCUZSxnBStZxWrWsJZ1rGcDG9nEZrawlW1sZwc72cVu9rCXfeznAAc5xGGOcJRjHOcEJznFac5wlnOc5wIXucRlrnCVa1znBje5xW3ucJd73OcBD3nEY57wlGc85wUvecVr3vCWd7znAx/5xGe+8JVvfOcH//6GfX/+1xnRvSMQgQlCUIIRnBCEJBShCUNYwhGeCEQkEpGJQlSiEZ0YxCQWsYlDXOIRnwQkJBGJScIfJCUZyUlBSlKRmjSkJR3pyUBGMpGZLGQlG9nJQU5ykZs85CUf+SnAnxSkEIUpQlGKUZwSlKQUf1GaMpSlHOWpQEUqUZkqVKUa1alBTWpRmzrUpR71I/76fRvobEgjGtOEpjSjOS1oSSta04a2tKM9HehIJzrTha50ozs96EkvevM3fehLP/ozgIH8wyAGM4ShDGM4IxjJKEYzhrGMYzwTmMgkJjOFqUxjOjOYySxmM4e5zGM+C1jIIhazhKUsYzkrWMkqVrOGtaxjPRvYyCY2s4WtbGM7O9jJLnazh73sYz8HOPgb9j2k8zBHOMoxjnOCk5ziNGc4yznOc4GLXOIyV7jKNa5zg5vc4jZ3uMs97vOAhzziMU94yjOe84KXvOI1b3jLO97zgY984jNf+Mo3vvODf/n535tFcp8IRGCCEJRgBCcEIQlFaMIQlnCEJwIRiURkohCVaEQnBjGJRWziEJd4xCcBCUlEYpLwB0lJRnJSkDLSr983lc7UpCEt6UhPBjKSicxkISvZyE4OcpKL3OQhL/nITwH+pCCFKEwRilKM4pSgJKX4i9KUoSzlKE8FKlKJylShKtWoTg1qUova1KEu9ahPAxrSiMY0oSnNaE4LWtKK1rShLe1oTwc60onOdKEr3ehOD3rSi978TR/60o/+DGAg/zCIwQxhKMMYzghG/oZ9R+kczRjGMo7xTGAik5jMFKYyjenMYCazmM0c5jKP+SxgIYtYzBKWsozlrGAlq1jNGtayjvVsYCOb2MwWtrKN7exgJ7vYzR72so/9HOAghzjMEY5yjOOc4CSnOM0ZznKO81zgIpe4zBWuco3r3OAmt7jNHe5yj/s84CGPeMwTnvKM57zgJa94zRve/oZ93+l8zwc+8onPfOEr3/jOD/7l53/fENm9IxCBCUJQghGcEIQkFKEJQ1jCEZ4IRCQSkYlCVKIRnRjEJBaxiUNc4hGfBCQkEYlJwh8kJRnJSUFKUpGaNKQlHenJQEYykZksZCUb2clBTnKRmzzkJR/5KcCfFKQQhSlCUYpRnBKUpBR/UZoylKUc5alARSpROfKv37eKzqpUozo1qEktalOHutSjPg1oSCMa04SmNKM5LWhJK1rThra0oz0d6EgnOtOFrnSjOz3oSS968zd96Es/+jOAgfzDIAYzhKEMYzgjGMkoRjOGsYxjPBOYyCQmM4WpTGM6M5jJLGYzh7nMYz4LWMgiFrOEpSxjOStYySpWs4a1rGM9G9jIJjazha2/Yd9tOrezg53sYjd72Ms+9nOAgxziMEc4yjGOc4KTnOI0ZzjLOc5zgYtc4jJXuMo1rnODm9ziNne4yz3u84CHPOIxT3jKM57zgpe84jVveMs73vOBj3ziM1/4yje+84N/+fnfG0dxnwhEYIIQlGAEJwQhCUVowhCWcIQnAhGJRGSiEJVoRCcGMYlFbOIQl3hRfv2+8XUmICGJSEwS/iApyUhOClKSitSkIS3pSE8GMpKJzGQhK9nITg5ykovc5CEv+chPAf6kIIUoTBGKUozilKAkpfiL0pShLOUoTwUqUonKVKEq1ahODWpSi9rUoS71qE8DGtKIxjShKc1oTgta0orWtKEt7WhPBzrSic50oSvd6E4PetKL3vxNH/rS7zfs21/nAAbyD4MYzBCGMozhjGAkoxjNGMYyjvFMYCKTmMwUpjKN6cxgJrOYzRzmMo/5LGAhi1jMEpayjOWsYCWrWM0a1rKO9WxgI5vYzBa2so3t7GAnu9jNHvayj/0c4CCHOMwRjnKM45zgJKc4zRnOco7zXOAil7jMFa5yjevc4Ca3uM0d7nKP+zzg4W/Y95HOxzzhKc94zgte8orXvOEt73jPBz7yic984Svf+M4P/uXnf98c1b0jEIEJQlCCEZwQhCQUoQlDWMIRnghEJBKRiUJUohGdGMQkFrGJQ1ziEZ8EJCQRiUnCHyQlGclJQUpSkZo0pCUd6clARjKRmSxkJRvZyUFOcpGbPOQlH/kpwJ8UpBCFKUJRilGcElF//b4ldZbiL0pThrKUozwVqEglKlOFqlSjOjWoSS1qU4e61KM+DWhIIxrThKY0ozktaEkrWtOGtrSjPR3oSCc604WudKM7PehJL3rzN33oSz/6M4CB/MMgBjOEoQxjOCMYyShGM4axjGM8E5jIJCYzhalMYzozmMksZjOHucxjPgtYyCIWs4SlLGM5K1j5G/ZdpXM1a1jLOtazgY1sYjNb2Mo2trODnexiN3vYyz72c4CDHOIwRzjKMY5zgpOc4jRnOMs5znOBi1ziMle4yjWuc4Ob3OI2d7jLPe7zgIc84jFPeMoznvOCl7ziNW94yzve84GPfOIzX/jKN77zg3/5+d8m0dwnAhGYIAQlGMEJQUhCEZowhCUc4YlARCJF+/X7RtYZhahEIzoxiEksYhOHuMQjPglISCISk4Q/SEoykpOClKQiNWlISzrSk4GMZCIzWchKNrKTg5zkIjd5yEs+8lOAPylIIQpThKIUozglKEkp/qI0ZShLOcpTgYpUojJVqEo1qlODmtSiNnWoSz3q04CGNKIxTWhKM5rTgpa0ojVtaEs72tOBjnSi82/Yt4vOrnSjOz3oSS968zd96Es/+jOAgfzDIAYzhKEMYzgjGMkoRjOGsYxjPBOYyCQmM4WpTGM6M5jJLGYzh7nMYz4LWMgiFrOEpSxjOStYySpWs4a1rGM9G9jIJjazha1sYzs72MkudrOHvexjPwc4yCEOc4SjHOM4JzjJKU5zhrOc4zwXuMglLnOFq79h32s6r3ODm9ziNne4yz3u84CHPOIxT3jKM57zgpe84jVveMs73vOBj3ziM1/4yje+84N/+fnff4zu3hGIwAQhKMEITghCEorQhCEs4QhPBCISichEISrRiE4MYhKL2MQhLvGITwISkojEJOEPkpKM5KQgJalITRrSko70ZCAjmchMFrKSjezkICe5yE0e8kb/9fvm05mfAvxJQQpRmCIUpRjFKUFJSvEXpSlDWcpRngpUpBKVqUJVqlGdGtSkFrWpQ13qUZ8GNKQRjWlCU5rRnBa0pBWtaUNb2tGeDnSkE53pQle60Z0e9KQXvfmbPvSlH/0ZwED+YRCDGcJQhjGcEYxkFKMZw1jGMZ4JTGQSk5nCVKYxnRnMZBazmcPc37DvPJ3zWcBCFrGYJSxlGctZwUpWsZo1rGUd69nARjaxmS1sZRvb2cFOdrGbPexlH/s5wEEOcZgjHOUYxznBSU5xmjOc5RznucBFLnGZK1zlGte5wU1ucZs73OUe93nAQx7xmCc85RnPecFLXvGaN7zlHe/5wEc+8ZkvfOUb3/nBv/z8b8MY7hOBCEwQghIsxq/fN7jOEIQkFKEJQ1jCEZ4IRCQSkYlCVKIRnRjEJBaxiUNc4hGfBCQkEYlJwh8kJRnJSUFKUpGaNKQlHenJQEYykZksZCUb2clBTnKRmzzkJR/5KcCfFKQQhSlCUYpRnBKUpBR/UZoylKUc5alARSpRmSpUpRrVqUFNalGbOtSlHvVpQEMa0ZgmNKUZzX/Dvi10tqQVrWlDW9rRng50pBOd6UJXutGdHvSkF735mz70pR/9GcBA/mEQgxnCUIYxnBGMZBSjGcNYxjGeCUxkEpOZwlSmMZ0ZzGQWs5nDXOYxnwUsZBGLWcJSlrGcFaxkFatZw1rWsZ4NbGQTm9nCVraxnR3sZBe72cNe9rGfAxzkEIc5wlGOcZwTnPwN+57SeZoznOUc57nARS5xmStc5RrXucFNbnGbO9zlHvd5wEMe8ZgnPOUZz3nBS17xmje85R3v+cBHPvGZL3zlG9/5wb/8/O9NYrp3BCIwQQhKMIITgpCEIjRhCEs4whOBiEQiMlGISjSiE4OYxCI2cYhLPOKTgIQkIjFJ+IOkJCM5KUhJKlKThrSkIz0ZyBjz1++bSWdmspCVbGQnBznJRW7ykJd85KcAf1KQQhSmCEUpRnFKUJJS/EVpylCWcpSnAhWpRGWqUJVqVKcGNalFbepQl3rUpwENaURjmtCUZjSnBS1pRWva0JZ2tKcDHelEZ7rQlW50pwc96UVv/qYPfelHfwYwkH8YxGCGMJRhDGcEIxnFaMYwlnGMZwITf8O+k3ROZgpTmcZ0ZjCTWcxmDnOZx3wWsJBFLGYJS1nGclawklWsZg1rWcd6NrCRTWxmC1vZxnZ2sJNd7GYPe9nHfg5wkEMc5ghHOcZxTnCSU5zmDGc5x3kucJFLXOYKV7nGdW5wk1vc5g53ucd9HvCQRzzmCU95xnNe8JJXvOYNb3nHez7wkU985gtff8O+33R+5wf/8vO/34jl3hGIwAQhKMEITghCEorQhCEs4QhPBCISichEISrRiE4MYhKL2MQhLvGITwISkojEJOEPkpKM5KQgJalITRrSko70ZCAjmchMFrKSjezkICe5yE0e8pKP/BTgTwpSiMIUoSjFKE4JSlKKvyhNGcpSjvJUoCKVqEwVqlKN6tSgJrWoHevX71tHZ13qUZ8GNKQRjWlCU5rRnBa0pBWtaUNb2tGeDnSkE53pQle60Z0e9KQXvfmbPvSlH/0ZwED+YRCDGcJQhjGcEYxkFKMZw1jGMZ4JTGQSk5nCVKYxnRnMZBazmcNc5jGfBSxkEYtZwlKWsZwVrGQVq1nDWtaxng1sZBOb2cJWtrGdHexkF7vZw97fsO8+nfs5wEEOcZgjHOUYxznBSU5xmjOc5RznucBFLnGZK1zlGte5wU1ucZs73OUe93nAQx7xmCc85RnPecFLXvGaN7zlHe/5wEc+8ZkvfOUb3/nBv/z87w1ju08EIjBBCEowghOCkIQiNGEISzjCE4GIRCIyUYhKNKITg5jEIjZxiEs84pOAhCQiMUn4g6Sxf/2+yXQmJwUpSUVq0pCWdKQnAxnJRGaykJVsZCcHOclFbvKQl3zkpwB/UpBCFKYIRSlGcUpQklL8RWnKUJZylKcCFalEZapQlWpUpwY1qUVt6lCXetSnAQ1pRGOa0JRmNKcFLWlFa9rQlna0pwMd6URnutCVbnSnBz3pRW/+pg996Ud/BjCQfxjEYIYw9DfsO0zncEYwklGMZgxjGcd4JjCRSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLWcZyVrCSVaxmDWtZx3o2sJFNbGYLW9nGdnawk13sZg972cd+DnCQQxzmCEc5xnFOcJJTnOYMZznHeS5wkUtc5gpXucZ1bnCTW9zmDne5x30e8JBHPOYJT3nGc17w8jfs+0rna97wlne85wMf+cRnvvCVb3znB//y879viuPeEYjABCEowQhOCEISitCEISzhCE8EIhKJyEQhKtGITgxiEovYxCEu8YhPAhKSiMQk4Q+SkozkpCAlqUhNGtKSjvRkICOZyEwWspKN7OQgJ7nITR7yko/8FOBPClKIwhShKMUoTglKUoq/KE0ZylKO8nF+/b4VdFakEpWpQlWqUZ0a1KQWtalDXepRnwY0pBGNaUJTmtGcFrSkFa1pQ1va0Z4OdKQTnelCV7rRnR70pBe9+Zs+9KUf/RnAQP5hEIMZwlCGMZwRjGQUoxnDWMYxnglMZBKTmcJUpjGdGcxkFrOZw1zmMZ8FLGQRi1nCUpaxnBWsZBWrWcNa1rGeDWz8Dftu0rmZLWxlG9vZwU52sZs97GUf+znAQQ5xmCMc5RjHOcFJTnGaM5zlHOe5wEUucZkrXOUa17nBTW5xmzvc5R73ecBDHvGYJzzlGc95wUte8Zo3vOUd7/nARz7xmS985Rvf+cG//PzvzeO6TwQiMEEISjCCE4KQhCI0YQhLOMITgYhEIjJRiEo0ohODmMSK++v3ja0zDnGJR3wSkJBEJCYJf5CUZCQnBSlJRWrSkJZ0pCcDGclEZrKQlWxkJwc5yUVu8pCXfOSnAH9SkEIUpghFKUZxSlCSUvxFacpQlnKUpwIVqURlqlCValSnBjWpRW3qUJd61KcBDWlEY5rQlGY0pwUtaUVr2tCWdrSnAx3pRGe60JVudKcHPelF79+w7986+9CXfvRnAAP5h0EMZghDGcZwRjCSUYxmDGMZx3gmMJFJTGYKU5nGdGYwk1nMZg5zmcd8FrCQRSxmCUtZxnJWsJJVrGYNa1nHejawkU1sZgtb2cZ2drCTXexmD3vZx34OcJBDHOYIRznGcU5wklOc5gxnOcd5LnCRS1zmCle5xnVucJNb3OYOd3/Dvvd03ucBD3nEY57wlGc85wUvecVr3vCWd7znAx/5xGe+8JVvfOcH//Lzv/8Qz70jEIEJQlCCEZwQhCQUoQlDWMIRnghEJBKRiUJUohGdGMQkFrGJQ1ziEZ8EJCQRiUnCHyQlGclJQUpSkZo0pCUd6clARjKRmSxkJRvZyUFOcpGbPOQlH/kpwJ8UpBCFKRLv1+9bVGcxilOCkpTiL0pThrKUozwVqEglKlOFqlSjOjWoSS1qU4e61KM+DWhIIxrThKY0ozktaEkrWtOGtrSjPR3oSCc604WudKM7PehJL3rzN33oSz/6M4CB/MMgBjOEoQxjOCMYyShGM4axjGM8E5jIJCYzhalMYzozmMksZjOHucxjPgtYyCIWs4Slv2HfZTqXs4KVrGI1a1jLOtazgY1sYjNb2Mo2trODnexiN3vYyz72c4CDHOIwRzjKMY5zgpOc4jRnOMs5znOBi1ziMle4yjWuc4Ob3OI2d7jLPe7zgIc84jFPeMoznvOCl7ziNW94yzve84GPfOIzX/jKN77zg3/5+d9G8d0nAhGYIAQlGMEJQUhCEZowhCVc/F+/b3idEYhIJCIThahEIzoxiEksYhOHuMQjPglISCISk4Q/SEoykpOClKQiNWlISzrSk4GMZCIzWchKNrKTg5zkIjd5yEs+8lOAPylIIQpThKIUozglKEkp/qI0ZShLOcpTgYpUojJVqEo1qlODmtSiNnWoSz3q04CGNKIxTWhKM5rTgpa0ojVtaEs72v+GfTvo7EgnOtOFrnSjOz3oSS968zd96Es/+jOAgfzDIAYzhKEMYzgjGMkoRjOGsYxjPBOYyCQmM4WpTGM6M5jJLGYzh7nMYz4LWMgiFrOEpSxjOStYySpWs4a1rGM9G9jIJjazha1sYzs72MkudrOHvexjPwc4yCEOc4SjHOM4JzjJKU5zhrOc4zwXuPgb9r2k8zJXuMo1rnODm9ziNne4yz3u84CHPOIxT3jKM57zgpe84jVveMs73vOBj3ziM1/4yje+84N/+fnff07g3hGIwAQhKMEITghCEorQhCEs4QhPBCISichEISrRiE4MYhKL2MQhLvGITwISkojEJOEPkpKM5KQgJalITRrSko70ZCAjmchMFrKSjezkIGeCXzDo/yu5dOYmD3nJR34K8CcFKURhilCUYhSnBCUpxV+UpgxlKUd5KlCRSlSmClWpRnVqUJNa1KYOdalHfRrQkEY0pglNaUZzWtCSVrSmDW1pR3s60JFOdKYLXelGd3rQk1705m/60Jd+9GcAA/mHQQxmCEMZxnBGMJJRjGYMYxnHeCYwkUlMZgpTmcZ0ZjAzwf9hqP+PmaVzNnOYyzzms4CFLGIxS1jKMpazgpWsYjVrWMs61rOBjWxiM1vYyja2s4Od7GI3e9jLPvZzgIMc4jBHOMoxjnOCk5ziNGc4yznOc4GLXOIyV7jKNa5zg5vc4jZ3uMs97vOAhzziMU94yjOe84KXvOI1b3jLO97zgY984jNf+Mo3vvODf/nJ/xK6TwRK+H+c6v9TAusMQlCCEZwQhCQUoQlDWMIRnghEJBKRiUJUohGdGMQkFrGJQ1ziEZ8EJCQRiUnCHyQlGclJQUpSkZo0pCUd6clARjKRmSxkJRvZyUFOcpGbPOQlH/kpwJ8UpBCFKUJRilGcEpSkFH9RmjKUpRzlqUBFKlGZKlSlGtWpQU1qUZs61KUe9WlAQxrR+Dfs20RnU5rRnBa0pBWtaUNb2tGeDnSkE53pQle60Z0e9KQXvfmbPvSlH/0ZwED+YRCDGcJQhjGcEYxkFKMZw1jGMZ4JTGQSk5nCVKYxnRnMZBazmcNc5jGfBSxkEYtZwlKWsZwVrGQVq1nDWtaxng1sZBOb2cJWtrGdHexkF7vZw172sZ8DHOQQhznC0d+w7zGdxznBSU5xmjOc5RznucBFLnGZK1zlGte5wU1ucZs73OUe93nAQx7xmCc85RnPecFLXvGaN7zlHe/5wEc+8ZkvfOUb3/nBv/z8740SuXcEIjBBCEowghOCkIQiNGEISzjCE4GIRCIyUYhKNKITg5jEIjZxiEs84pOAhCQiMUn4g6QkIzkpSEkqUpOGtIl+/b7pdKYnAxnJRGaykJVsZCcHOclFbvKQl3zkpwB/UpBCFKYIRSlGcUpQklL8RWnKUJZylKcCFalEZapQlWpUpwY1qUVt6lCXetSnAQ1pRGOa0JRmNKcFLWlFa9rQlna0pwMd6URnutCVbnSnBz3pRW/+pg996Ud/BjCQfxjEYIYwlGEMZwQjGcVoxjD2N+w7Tud4JjCRSUxmClOZxnRmMJNZzGYOc5nHfBawkEUsZglLWcZyVrCSVaxmDWtZx3o2sJFNbGYLW9nGdnawk13sZg972cd+DnCQQxzmCEc5xnFOcJJTnOYMZznHeS5wkUtc5gpXucZ1bnCTW9zmDne5x30e8JBHPOYJT3nGc17wkle85g1vecd7PvDxN+z7SednvvCVb3znB//y87/fTOzeEYjABCEowQhOCEISitCEISzhCE8EIhKJyEQhKtGITgxiEovYxCEu8YhPAhKSiMQk4Q+SkozkpCAlqUhNGtKSjvRkICOZyEwWspKN7OQgJ7nITR7yko/8FOBPClKIwhShKMUoTglKUoq/KE0ZylKO8lSgIpWoTBWqUo3qiX/9vjV01qQWtalDXepRnwY0pBGNaUJTmtGcFrSkFa1pQ1va0Z4OdKQTnelCV7rRnR70pBe9+Zs+9KUf/RnAQP5hEIMZwlCGMZwRjGQUoxnDWMYxnglMZBKTmcJUpjGdGcxkFrOZw1zmMZ8FLGQRi1nCUpaxnBWsZBWrWcNa1rGeDWxkE5vZwla2sZ0d7PwN++7SuZs97GUf+znAQQ5xmCMc5RjHOcFJTnGaM5zlHOe5wEUucZkrXOUa17nBTW5xmzvc5R73ecBDHvGYJzzlGc95wUte8Zo3vOUd7/nARz7xmS985Rvf+cG//PzvTZO4TwQiMEEISjCCE4KQhCI0YQhLOMITgYhEIjJRiEo0ohODmMQiNnGISzzik4CEJEry6/dNrDMJf5CUZCQnBSlJRWrSkJZ0pCcDGclEZrKQlWxkJwc5yUVu8pCXfOSnAH9SkEIUpghFKUZxSlCSUvxFacpQlnKUpwIVqURlqlCValSnBjWpRW3qUJd61KcBDWlEY5rQlGY0pwUtaUVr2tCWdrSnAx3pRGe60JVudKcHPelFb/6mD33pR38GMJB/fsO+g3QOZghDGcZwRjCSUYxmDGMZx3gmMJFJTGYKU5nGdGYwk1nMZg5zmcd8FrCQRSxmCUtZxnJWsJJVrGYNa1nHejawkU1sZgtb2cZ2drCTXexmD3vZx34OcJBDHOYIRznGcU5wklOc5gxnOcd5LnCRS1zmCle5xnVucJNb3OYOd7nHfR7wkEc85glPf8O+AQlIQAISkIAEJCABCUhAAhKQgAQkIAEJSEACEpCABCQgAQlIQAISkIAEJCABCUhAAhKQ/2f+byDxIs4=
+  </data>
+ </layer>
+ <layer name="map" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2V9O20AQx3GjECl5blVBD9AL9BCVSg/BS09B/731EHYuAJF46oFooe0xuiNssZ7OrtfBkder70caBWHHQfw8O2uoKgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABTOzvNswAAALSGPULR3q7n/gnS7Nb9enNiV+xYd3zKyt0S8o1lJazMrSzINz+h3+sxspJq2tff7rP/BOpvRb5TGZNvY5xXtxU7rq/xy33ue3f9i0B9cPVQke8UxuRbt/k0Rn51IF/rHpF8z9z1z1UtLV/ZO3/M9GeM5RqasY2R71DV636PS11tquprW59cfXb17uSpp5eSb+696zt0D6zX31Cf6/vk1mX6Y/P4KuWv2eQ7vTH7KmumDp2r3/PTZXq5cvsp93pHvkdnrc+hfrZ6dihPXS+3j/meu9cX2/5Mfr2AfHOevVosB51vY8zT0FpcG+W/53r1dN5VO4e/uPrm6vsm73yX2LuxfHU2Q/051N9yjZtV/9itN4+783K1pHxja3Eo36H9U0rW+1X/ujKHZS7fk+9R+Pk+Zz9trccp+coclrn8apt3vkuavT6dbyybRn099rl4Z6zP1jqeoyX2rkj9X5DOcuj5KNTP+0i+XeVoCfkesjc6ZMbqfrTW5zpyXo5yzXeKTLvSOegeDZ3nZxjqX/89mNchPVy3uUm+1jXINx+hmTy0dxZ+vnq9b8g3C6l7MN2f4qbNN7S2k+/8Uub1bv3/Pkro9dm6JzAvay22noWs3Kz5S755CfWdla/fy2Lvrc/+fpv9VT5S567+vrDWZ31/YF5jno90hZ6P9H2A+cRmZ2weCz/f7hz9dxHMK2X/bM1mEepf9lf5eM76nFKYF/mWjXzLRr5lI9+ykW/ZyLds5Fs28i3bsfP9B/l6skM=
+  </data>
+ </layer>
+ <layer name="mid" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2btrFFEUx/GRJJMNW0UQRHxb6H+ghWshiqCCis9KLRQ0hdqLiIqa2Ij/gdpbiIX4Bjs1Woi9hfhC8d35PJedC2eO987Mmo07Cd8PHCazOxmW+c259+5OkgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACYqHlpkszPakHa60+DbtskmW7Oagv5TjvkO72R7/RGvt2zb6B+dUIyPZnVqbT75//U153zoH4W9SfJYqkl/fFjtsp726S2FxyDyXVHevCu1L2+9v4Xqa9S30r+j+ymho997XH2c9/EzqP7+aLMBa0K87075jLrgkmlc7k5mCQ7K9StwL7u52cdZHaYfCeVzmVssNr/2OPsfieZkW/eValXUm+krnX53O+zftyV5bXD9Ont7PX5jeJ98v13L6TWz0iSjVIvJ3CeB3JdH6p6lJb3b1nfjql8rzTafw+XrL/IN8/lO1uynfMP+Y7LtXySXc/vsv2h6qfK92Zknv1g+nphI3/8B5Xv80a1z0S+eUfluh2XOi11tuI19EbkWh6MXM+Z8vpols+Y2Xqx/rbHu8yGh9p/rxsq/kzkm+fGvatS16VudJCv693HgfL9vEa2a9N2b/q+9Hmfi8yzO0zfjpr5d7ccv0dqb8HnJN88N+69kHor9a6DfH/Jdfyd1YpAvkWqzrteLN8r5vO6+5N889y4N0tqrtS8krEvxvXy8izrJMtmf//f62W/jn4/GJ6Hz6lxeb2ca4PUxjSer52T35Fv1+i11Xigb0cKejnWr3Z7LPt/l9ms9O98h8396O5P8u0Onekv1bfjgbF6qVz3ZVIHsu82dh626zA/L+9i/u2Z8cjaeaSDubjqevpp9vuzzreV5utStk0r/maGYrH1s11L2zlY14JG8b7/vuzX36H+9c8Tq/4Wimqq5ntfsjhfYV0eev7rM1sdGJ/t88SVsm1JreL5Ylfo70exSkp6SmcSev7r8n05kCSvpF4P5PNtmhwPyf5hqSPkWxtlmbh8dY5F6yvG5/pqRsZYu2/zdfdFU82/tqfROzo7n4vtZ7tv822qc9C/9RIbm1dGMnNZ2nz1Oci33nSuocxaJl87dpNvfYS+y4T62f+O5d/T+drjF1b4Dob/w2YTW1/p95yi70f2WNRPbE4OrZ/1feC2/L5RT7Gea5oe9uPzhSxfex80I/cGeifWc/r1or4sGtfRe7HxWPeiPkb3tM6U3ybrLZabft++zng8NdjcfC+Gxl6fZ+i3rzNDrJ/ryObp2Pxia6mq8zR6y+ap59NWwXdknT3jdX0dCvSjE+rT0LH07tSgezC2PrbPmmy/o55i6yydWdnzYdRXlR4sez7s/QET6EMc
+  </data>
+ </layer>
+ <layer name="mid2" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2k1Kw0AUAOBZTG1Dl56gutATiIvqMdRTRE8heK2exp+l6NoUO5iqaZVSkkm+DwZC3iQEXl5mmEwIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADUzWIIR1U7jm0/CQD00/X4qwEA8OnwYD/3fZuE8D7Zz71pz2KV05MihNOi3WcBgCF4GoXwXLWXUXOfV3OurJ2t1irPrVn2Upo/35s7D86Dms7e44axV37zMY8hXFTtsmEfzrY43VZWebuNzTWZ4uRt2zd3HteP1XT37JKXae2aVNN38tspf8lLqlO12Q/1ml7W6HIP1s345ztwVdujNZX7bPz3W2vs7a5NuUmx731mxXrc2Ntdm3KTYuUqlvqUcfu1AMDulmPtwv/7QTGvypt1q35pqsffzqtdgPx8AEJWJ74=
+  </data>
+ </layer>
+ <layer name="coins" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJztVuGu8zoI2znv/9Cf7o9JVQTGJjTdzrWlai0hQDCQvV6GYRiGYRiGYRiGYRiGYVT4eToAg8JP8aA9xmdj5WnlLFqf5LaqLfb5FnsngHxnZ4zeozX1fOzZWRsTuazOzviYjomBUk8Mb5Eesz/zw8bTibXaz56JyR+ydxfUOcGcYdVjapbhV+WoU2OoVtl5lQHZuwtqHjt3S5ffiscqTyy/KIbMD8svWy93Icsr0kF7mXeFuyi2n+QbxYdiyGxVNdut7SruSbB5ZfdO9m+mw/Y6qp8sLpTzyh6KZ5VXvqYQ1STSueqx85LJi9q/qs0ox8os2AGb17v8MnlS8om4YvNanZ3JDdOfp3qpc8YJn5U/JS5mPq8ytp/V9VXnaX7fPpi7atJf5F+5tzJ5NfcZfieeHXt34ISPqy/0rchWeWX7RP+yeOJuPOHD/Oa2/gq/1VyqZhzSzdau3+b3rH3lTmL5RbY++f6dvpNP3fGrrx0b0XeU21V/1e3eFaz+tL0OmDNOQ63xdS/Tkxm/zJ5Kxuqf5rcz/+5A1nNRDOx8ZuWsrc7czWKfshfFr87eu/llYo/OjtaynCEf0RrKU5XHijfkm7UXrSMb2b47wXLF7ol+I3vM7GNrQempCXuM/BP4RT2m9Gy2X51lKr938daJm4md2Xcn0Ayt5u6qk9mJ/LE+UQwdvSjm7BzV2dnYI70TqHhR5vgkv4ys0u/mV8mDYrejtwuWM+a9mj07tT3Nx3S9MHY7ertgZtoqewXy6BfZWveimLrPt9i7E6jXkFzlV/GvzPdddPx3dE/xyfo1v/39O3rTmOI3m93IVrZmfueg8Fvdv+hbuYc+9b6cfk4A5RjJqnyifawfJgZmb7Wnike1weBkP3drfbWB1qL36Psqu/6y8aj8sn013XtP8rujp/Ycy2+FqiYU/9H+yMbOXP6k/s30Klus/Sznu/xGa0q/rt8VR504T6DTs1P9G8mm+wPltNPnqC6r2nmKXzZPTO4j+9F7JlP6g9lb9WqkF/GtzthP4peNQ+nb6xrLv+qb5TeKQ5nRqj1lvtyNbM5ka5kNNU/IP4oLcZPlvooJ2WLsqXia3+s7e7a7+VVsqT5RHIw9Faf4zeqWqenIViVne3DiUexN+lXjuxMMJ4x82tZJoHnx7TC/5reSK/9lGPlpnJ6ZJzFxbzD/ZZi6mLqXmXNm8TP6O/GcvoOrs7K5QOtvuXqmzn8SJs8qLzv/kTp7JqHwOVGTO7PC/aujk2903m/DU311CuxsRd+V/JNxrdlvjL9Cl9/OnaTOCnQHTvh4Be8dG0wc6jmm0Mk56meFr+j9+s3sRXoIWcyRfWSjkxPFxy5YfwwfaM/7e6eOkJ2Oj1fw3rFRxYRivxsqv1WtMvJPAqrbv4CJnkJy5K/y34lb1e/u24n9NFhuKjlbC6u+Yo+ps7u5Z2L/JEzxu2OXxR25q7j/dpjfs/5OY/2Pkc0ndSYpMxTpZd+VXuWHnd3sGVZ7v8X3KawcsmurHtqL5ChHmc3ql/WLdDvcM36+kd9q7ypn+nfVzb4jeeazioPlNXp+i5iv6yfBzBtmrqj9y5yT7WPWJ+Or0t/Nw2l+Vd9sHTD8ov6t+hZ9Zz6r+JHOG2sfoliyWfMU1DrP1pV+Z3plpyeYulN7MoqNjfFpfpVazmxUtit7Sr+y3O3yy8yr/55rf/8G60/y+waaW8xeJGd6j5mzkc2K3yi/bL1lYM/7/v0NdJ/EJL+o7qs1pMv0FxtvNruUc7yS30/p3yvU/LH5ZHqi+mV87vK7Yu2/yVg/EWy/VPWu6Kq2mHiy86B93Znzl3H6nN25bXwfzKlhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGIZhGMb/C/8An78JcQ==
+  </data>
+ </layer>
+ <layer name="top" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2clu1EAQxvGWMh4h5Qk4EsKSM1fegSULAV6CV2BfJjkDAy8RhfUAPA3LDTjAmbLGJZdK3bbFTMY91v8nlaKxjePom2p30yEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIC+TNZCOJA6XOv7SRDTlE+X7D7Juc9SX8g3S035dMnup5z7JfWbfLMUy+dKEcLVYnbuelGfYyzOU1MuZ0YhbEidHdXH7kqm96TuSz0o6uOMxatnW3Ldkdo1+R5Lpm+k3kq9M/kyFg/DV8n0m9R3qR9F+rqjDvc6XthTAcBwPB+H8MLUy3HfT4R5TSXD10vO8ejUcn8fMERT07evxnUtu58BLN6lUfs1bU6bsWBb1sY7UrsNa2QsTtvcatFzr4eS6yOpx+Tbq2n1Hrb+yJz375zz3veS6wepj1W+F6QuSm3Nd1tk6qbULanb1edNqXNS53t7omGyc2fft21sD6by0f3Da8Vs/1BNpNblHX9Yfd6TuiG1/z9/BE6E7cFUPrH9Q/1ebJg53JMwy/vZiT81urI9WOajudleju0f+rEZ+bFjs/7U3NrGWv1e2Hsw38qL7UH9qbmVvfw0zMba9YZ1tL0HPZ0XOzYfhHqeZMfmO1W2qd6cmH87cfdBf2JzZT0WG5tTvdnU2+hPLEM9Zsdmzd+vhZTmy9o3L3Yto2OvzbVtfuXzZO2br9jYa7MupfLcTFyPPJS9G5sX+XWP70/t/73q836oM0Y+UvMmv+7x/XnZrX3L44zP+Un1bmrdY9dI9jvA+Jwvv7b1Pa3n7XF9H7PezZ/P0/ar/T9Le9y+j9v2n9Avn2fJZu7H8LKf7Xjctv+E/tk8y360mdrjWyGdPe/gfMXy9POsWKbsLawOn2eqT7WP2VtYLU3zrNQ19O3q6NKD/hr6Fhief25Dvfo=
+  </data>
+ </layer>
+ <layer name="top2" width="120" height="100">
+  <data encoding="base64" compression="zlib">
+   eJzt2FlOwzAQAFB/wAG4A+tx+CkULsR6Z2KpVq2pG7Y2ieE9yapiuZKlmXEmTgkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4P+4PZ17BwAAAH05O5l7BwAAADCtt7k3wFHdhOfnWXbBmLoGc3xe0jZu58O4GMbl1JviYK4ac4+b39Uw7oZx31iT8+L9WJviYNbhuY7bU9rWdJTz4jrtntEsR47l6w//m/PiIW1rnT589V2b88IZ3Z/8ri19Vd1f+RbqS/yWye/R2C+P9VeRXnv5YjzH+qu0WVdi+p1cYDp1D7wvnq0+uazLMa1rd18usFz7+uSSD6tpt8Mvteq1dQ/C39G6x9BL9ancTdVa57Oa7kMrnvV8rN0yF+82WbZSjyWe6zAf15Y4u4vuQ6zHsTpVu/35rAZjHatbAFiOD0RjJD8=
+  </data>
+ </layer>
+ <objectgroup name="objects">
+  <object id="6" name="deer1" type="entity" x="3776" y="2528" width="32" height="32">
+   <properties>
+    <property name="save" value="false"/>
+    <property name="type" value="EDeer"/>
+   </properties>
+  </object>
+  <object id="8" name="forest1_script" type="script" x="3552" y="3040" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="controls::off;wait::0.01;hide::hud;move::up;move::up;move::up;move::up;move::up;move::up;move::up;move::up;move::up;wait::1;turn::right;wait::1;turn::down;wait::1;turn::left;wait::1;turn::up;wait::1;dialogue::{{name}}::0xFF6600::DIALOGUE_PLAYER_START_GAME;controls::on;tip::controls::2::10"/>
+   </properties>
+  </object>
+  <object id="9" name="forest1_leavescript1" type="script" x="3520" y="2784" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="controls::off;dialogue::{{name}}::0xFF6600::DIALOGUE_PLAYER_CANT_LEAVE_YET;move::up;controls::on;"/>
+   </properties>
+  </object>
+  <object id="10" name="forest1_leavescript2" type="script" x="3552" y="2784" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="command::onWalk::forest1_leavescript1"/>
+   </properties>
+  </object>
+  <object id="11" name="forest1_leavescript3" type="script" x="3584" y="2784" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="command::onWalk::forest1_leavescript1"/>
+   </properties>
+  </object>
+  <object id="12" name="forest1_leavescript4" type="script" x="3616" y="2784" width="32" height="32">
+   <properties>
+    <property name="onWalk" value="command::onWalk::forest1_leavescript1"/>
+   </properties>
+  </object>
+ </objectgroup>
+ <objectgroup name="regions" visible="0">
+  <object id="1" name="forest1" type="region" x="2880" y="2112" width="608" height="416">
+   <properties>
+    <property name="spawn" value="ESkeleton"/>
+    <property name="spawnInitial" value="3"/>
+    <property name="spawnMaxDay" value="3"/>
+    <property name="spawnMaxNight" value="6"/>
+    <property name="spawnTime" value="30"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>

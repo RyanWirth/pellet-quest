@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:527937675af369331a14de19ed7ba1a1:dbed7fdd63a2acd4aa916b8851f73d4f:28bbe7c082ce8babad433790613572d2$ -->
+<TextureAtlas imagePath="UICheckBoxSmall.png">
+    <SubTexture name="off_button_down" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="off_button_up" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="on_button_down" x="70" y="2" width="32" height="32"/>
+    <SubTexture name="on_button_up" x="104" y="2" width="32" height="32"/>
+</TextureAtlas>

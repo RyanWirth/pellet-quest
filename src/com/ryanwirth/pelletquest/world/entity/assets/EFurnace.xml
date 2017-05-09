@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:cf22e230a9c34cdd8034d6cc6d98178b:6cafd751fe0cfb33668eb34607ac7cba:6a13c50ab82837860b192544cf538299$ -->
+<TextureAtlas imagePath="EFurnace.png">
+    <SubTexture name="static_down01" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="static_down02" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="static_down03" x="70" y="2" width="32" height="32"/>
+</TextureAtlas>

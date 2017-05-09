@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:95367c49f7e337b247767894ec590fb6:4936ee3caa158f6c74bc2d1d0489c596:bc88ce8dfb9ca282d98f8f7e29871dec$ -->
+<TextureAtlas imagePath="ETorch.png">
+    <SubTexture name="static_down01" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="static_down02" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="static_down03" x="70" y="2" width="32" height="32"/>
+    <SubTexture name="static_down04" x="104" y="2" width="32" height="32"/>
+</TextureAtlas>

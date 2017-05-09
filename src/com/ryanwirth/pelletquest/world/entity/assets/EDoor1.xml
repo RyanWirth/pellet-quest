@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:5c2c265e68a1293838d3f0f9538aac78:4b43b2612793fa6d7fc25b6413e2dbae:c1d5e9026435687dee87790bf0076aca$ -->
+<TextureAtlas imagePath="EDoor1.png">
+    <SubTexture name="static_down01" x="2" y="2" width="32" height="64"/>
+    <SubTexture name="static_down07" x="2" y="2" width="32" height="64"/>
+    <SubTexture name="static_up01" x="2" y="2" width="32" height="64"/>
+    <SubTexture name="static_up07" x="2" y="2" width="32" height="64"/>
+    <SubTexture name="static_down02" x="36" y="2" width="32" height="64"/>
+    <SubTexture name="static_down06" x="36" y="2" width="32" height="64"/>
+    <SubTexture name="static_down03" x="70" y="2" width="32" height="64"/>
+    <SubTexture name="static_down05" x="70" y="2" width="32" height="64"/>
+    <SubTexture name="static_down04" x="104" y="2" width="32" height="64"/>
+    <SubTexture name="static_up02" x="2" y="68" width="32" height="64"/>
+    <SubTexture name="static_up06" x="2" y="68" width="32" height="64"/>
+    <SubTexture name="static_up03" x="36" y="68" width="32" height="64"/>
+    <SubTexture name="static_up05" x="36" y="68" width="32" height="64"/>
+    <SubTexture name="static_up04" x="70" y="68" width="32" height="64"/>
+</TextureAtlas>

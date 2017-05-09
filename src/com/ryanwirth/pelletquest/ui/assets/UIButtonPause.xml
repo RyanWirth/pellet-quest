@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:edc369839d0a9cfe6974805c6f2e720c:ad923ba55a1b8884e0c9762b65cc13bc:99d98c06cdd798b1e45781526c1a815f$ -->
+<TextureAtlas imagePath="UIButtonPause.png">
+    <SubTexture name="button_down" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="button_up" x="36" y="2" width="32" height="32"/>
+</TextureAtlas>

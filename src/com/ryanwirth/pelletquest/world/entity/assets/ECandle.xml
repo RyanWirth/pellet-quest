@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7b5ee19660b507be570bc1ee8bddb7d0:5edb444d25dd330f9d9cddf2ade8e0c8:50b432fc9d04b631ce2e61989adca647$ -->
+<TextureAtlas imagePath="ECandle.png">
+    <SubTexture name="static_down01" x="2" y="2" width="32" height="32"/>
+    <SubTexture name="static_down02" x="36" y="2" width="32" height="32"/>
+    <SubTexture name="static_down03" x="70" y="2" width="32" height="32"/>
+</TextureAtlas>
